@@ -1,11 +1,943 @@
 fileFormatVersion: 2
 guid: 0f902fee52cc97441ab7e63b55b7d19c
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: alt1
+    100002: alt1 1
+    100004: alt1 10
+    100006: alt1 11
+    100008: alt1 12
+    100010: alt1 13
+    100012: alt1 14
+    100014: alt1 15
+    100016: alt1 16
+    100018: alt1 17
+    100020: alt1 18
+    100022: alt1 2
+    100024: alt1 3
+    100026: alt1 4
+    100028: alt1 5
+    100030: alt1 6
+    100032: alt1 7
+    100034: alt1 8
+    100036: alt1 9
+    100038: alt18
+    100040: alt19
+    100042: alt2
+    100044: alt2 1
+    100046: alt2 10
+    100048: alt2 11
+    100050: alt2 12
+    100052: alt2 13
+    100054: alt2 14
+    100056: alt2 15
+    100058: alt2 16
+    100060: alt2 17
+    100062: alt2 18
+    100064: alt2 2
+    100066: alt2 3
+    100068: alt2 4
+    100070: alt2 5
+    100072: alt2 6
+    100074: alt2 7
+    100076: alt2 8
+    100078: alt2 9
+    100080: alt20
+    100082: alt21
+    100084: alt3
+    100086: alt3 1
+    100088: alt3 10
+    100090: alt3 2
+    100092: alt3 3
+    100094: alt3 4
+    100096: alt3 5
+    100098: alt3 6
+    100100: alt3 7
+    100102: alt3 8
+    100104: alt3 9
+    100106: alt4
+    100108: alt4 1
+    100110: alt4 2
+    100112: alt4 3
+    100114: alt4 4
+    100116: alt4 5
+    100118: alt4 6
+    100120: alt447
+    100122: alt448
+    100124: alt449
+    100126: alt450
+    100128: alt5
+    100130: alt5 1
+    100132: alt5 2
+    100134: alt6
+    100136: alt6 1
+    100138: alt6 2
+    100140: alt7
+    100142: alt7 1
+    100144: alt7 2
+    100146: alt7 3
+    100148: alt8
+    100150: alt8 1
+    100152: Apple
+    100154: ApplePie
+    100156: BabyBottle
+    100158: Baguette
+    100160: BakedGoods
+    100162: Banana
+    100164: BananaBunch
+    100166: base
+    100168: base 1
+    100170: base 10
+    100172: base 11
+    100174: base 12
+    100176: base 13
+    100178: base 14
+    100180: base 15
+    100182: base 16
+    100184: base 17
+    100186: base 18
+    100188: base 19
+    100190: base 2
+    100192: base 20
+    100194: base 21
+    100196: base 22
+    100198: base 3
+    100200: base 4
+    100202: base 5
+    100204: base 6
+    100206: base 7
+    100208: base 8
+    100210: base 9
+    100212: base2
+    100214: base2 1
+    100216: base3
+    100218: Beer
+    100220: Blackberry
+    100222: BoxOfFries
+    100224: BreadCrumb
+    100226: BrownOnion
+    100228: Cabbage
+    100230: Cake
+    100232: CannedFood
+    100234: CannedMeat
+    100236: CanOfPeas
+    100238: CanOfSardines
+    100240: CanOfSoda
+    100242: CanOfSoup
+    100244: CanOfTuna
+    100246: Cheese
+    100248: Cherry
+    100250: ChickenDrumstick
+    100252: Cocktail
+    100254: color
+    100256: color 1
+    100258: color 2
+    100260: color 3
+    100262: color 4
+    100264: color 5
+    100266: color 6
+    100268: color 7
+    100270: Cookie
+    100272: Corn
+    100274: CornOnTheCob
+    100276: Cucumber
+    100278: CupOfCoffee
+    100280: Donut
+    100282: Drinks
+    100284: Egg
+    100286: Eggplant
+    100288: //RootNode
+    100290: FrenchFry
+    100292: FriedEgg
+    100294: Fruits
+    100296: GlassOfWater
+    100298: GlassOfWine
+    100300: Grape
+    100302: GrapeJuice
+    100304: GummyBear
+    100306: Hamburger
+    100308: IceCreamCone
+    100310: JarOfHoney
+    100312: JellyBean
+    100314: JunkFood
+    100316: Kettle
+    100318: leaf
+    100320: Leek
+    100322: Lemon
+    100324: LoafOfBread
+    100326: Lollipop
+    100328: MarketStand
+    100330: Martini
+    100332: MeatsDairy
+    100334: Milk
+    100336: MincedMeat
+    100338: MysteryCan
+    100340: Orange
+    100342: OrangeJuice
+    100344: Pancake
+    100346: Peach
+    100348: Peanut
+    100350: PeanutShell
+    100352: Pear
+    100354: Pineapple
+    100356: PizzaSlice
+    100358: Popcorn
+    100360: ProduceCrate
+    100362: Pumpkin
+    100364: RackOfRibs
+    100366: Raspberry
+    100368: refl
+    100370: refl 1
+    100372: refl 2
+    100374: refl 3
+    100376: refl 4
+    100378: refl 5
+    100380: refl 6
+    100382: refl 7
+    100384: refl 8
+    100386: refl 9
+    100388: Sake
+    100390: SalmonSushi
+    100392: SliceOfBacon
+    100394: SliceOfCake
+    100396: SliceOfLemon
+    100398: SliceOfToast
+    100400: SodaBottle
+    100402: SpanishOnion
+    100404: Steak
+    100406: Strawberry
+    100408: Sugar
+    100410: Teapot
+    100412: Tomato
+    100414: transp
+    100416: transp 1
+    100418: transp 2
+    100420: transp 3
+    100422: transp 4
+    100424: transp 5
+    100426: transp 6
+    100428: transp1
+    100430: Vegetables
+    100432: WaterBottle
+    100434: WatermelonSlice
+    100436: WhiteOnion
+    100438: WineBottle
+    100440: XXXBottle
+    400000: alt1
+    400002: alt1 1
+    400004: alt1 10
+    400006: alt1 11
+    400008: alt1 12
+    400010: alt1 13
+    400012: alt1 14
+    400014: alt1 15
+    400016: alt1 16
+    400018: alt1 17
+    400020: alt1 18
+    400022: alt1 2
+    400024: alt1 3
+    400026: alt1 4
+    400028: alt1 5
+    400030: alt1 6
+    400032: alt1 7
+    400034: alt1 8
+    400036: alt1 9
+    400038: alt18
+    400040: alt19
+    400042: alt2
+    400044: alt2 1
+    400046: alt2 10
+    400048: alt2 11
+    400050: alt2 12
+    400052: alt2 13
+    400054: alt2 14
+    400056: alt2 15
+    400058: alt2 16
+    400060: alt2 17
+    400062: alt2 18
+    400064: alt2 2
+    400066: alt2 3
+    400068: alt2 4
+    400070: alt2 5
+    400072: alt2 6
+    400074: alt2 7
+    400076: alt2 8
+    400078: alt2 9
+    400080: alt20
+    400082: alt21
+    400084: alt3
+    400086: alt3 1
+    400088: alt3 10
+    400090: alt3 2
+    400092: alt3 3
+    400094: alt3 4
+    400096: alt3 5
+    400098: alt3 6
+    400100: alt3 7
+    400102: alt3 8
+    400104: alt3 9
+    400106: alt4
+    400108: alt4 1
+    400110: alt4 2
+    400112: alt4 3
+    400114: alt4 4
+    400116: alt4 5
+    400118: alt4 6
+    400120: alt447
+    400122: alt448
+    400124: alt449
+    400126: alt450
+    400128: alt5
+    400130: alt5 1
+    400132: alt5 2
+    400134: alt6
+    400136: alt6 1
+    400138: alt6 2
+    400140: alt7
+    400142: alt7 1
+    400144: alt7 2
+    400146: alt7 3
+    400148: alt8
+    400150: alt8 1
+    400152: Apple
+    400154: ApplePie
+    400156: BabyBottle
+    400158: Baguette
+    400160: BakedGoods
+    400162: Banana
+    400164: BananaBunch
+    400166: base
+    400168: base 1
+    400170: base 10
+    400172: base 11
+    400174: base 12
+    400176: base 13
+    400178: base 14
+    400180: base 15
+    400182: base 16
+    400184: base 17
+    400186: base 18
+    400188: base 19
+    400190: base 2
+    400192: base 20
+    400194: base 21
+    400196: base 22
+    400198: base 3
+    400200: base 4
+    400202: base 5
+    400204: base 6
+    400206: base 7
+    400208: base 8
+    400210: base 9
+    400212: base2
+    400214: base2 1
+    400216: base3
+    400218: Beer
+    400220: Blackberry
+    400222: BoxOfFries
+    400224: BreadCrumb
+    400226: BrownOnion
+    400228: Cabbage
+    400230: Cake
+    400232: CannedFood
+    400234: CannedMeat
+    400236: CanOfPeas
+    400238: CanOfSardines
+    400240: CanOfSoda
+    400242: CanOfSoup
+    400244: CanOfTuna
+    400246: Cheese
+    400248: Cherry
+    400250: ChickenDrumstick
+    400252: Cocktail
+    400254: color
+    400256: color 1
+    400258: color 2
+    400260: color 3
+    400262: color 4
+    400264: color 5
+    400266: color 6
+    400268: color 7
+    400270: Cookie
+    400272: Corn
+    400274: CornOnTheCob
+    400276: Cucumber
+    400278: CupOfCoffee
+    400280: Donut
+    400282: Drinks
+    400284: Egg
+    400286: Eggplant
+    400288: //RootNode
+    400290: FrenchFry
+    400292: FriedEgg
+    400294: Fruits
+    400296: GlassOfWater
+    400298: GlassOfWine
+    400300: Grape
+    400302: GrapeJuice
+    400304: GummyBear
+    400306: Hamburger
+    400308: IceCreamCone
+    400310: JarOfHoney
+    400312: JellyBean
+    400314: JunkFood
+    400316: Kettle
+    400318: leaf
+    400320: Leek
+    400322: Lemon
+    400324: LoafOfBread
+    400326: Lollipop
+    400328: MarketStand
+    400330: Martini
+    400332: MeatsDairy
+    400334: Milk
+    400336: MincedMeat
+    400338: MysteryCan
+    400340: Orange
+    400342: OrangeJuice
+    400344: Pancake
+    400346: Peach
+    400348: Peanut
+    400350: PeanutShell
+    400352: Pear
+    400354: Pineapple
+    400356: PizzaSlice
+    400358: Popcorn
+    400360: ProduceCrate
+    400362: Pumpkin
+    400364: RackOfRibs
+    400366: Raspberry
+    400368: refl
+    400370: refl 1
+    400372: refl 2
+    400374: refl 3
+    400376: refl 4
+    400378: refl 5
+    400380: refl 6
+    400382: refl 7
+    400384: refl 8
+    400386: refl 9
+    400388: Sake
+    400390: SalmonSushi
+    400392: SliceOfBacon
+    400394: SliceOfCake
+    400396: SliceOfLemon
+    400398: SliceOfToast
+    400400: SodaBottle
+    400402: SpanishOnion
+    400404: Steak
+    400406: Strawberry
+    400408: Sugar
+    400410: Teapot
+    400412: Tomato
+    400414: transp
+    400416: transp 1
+    400418: transp 2
+    400420: transp 3
+    400422: transp 4
+    400424: transp 5
+    400426: transp 6
+    400428: transp1
+    400430: Vegetables
+    400432: WaterBottle
+    400434: WatermelonSlice
+    400436: WhiteOnion
+    400438: WineBottle
+    400440: XXXBottle
+    2100000: Mat_Refl
+    2100002: Mat_Standard
+    2100004: Mat_DblSided
+    2100006: Mat_Transp
+    2100008: Mat_Plant
+    2300000: alt1
+    2300002: alt1 1
+    2300004: alt1 10
+    2300006: alt1 11
+    2300008: alt1 12
+    2300010: alt1 13
+    2300012: alt1 14
+    2300014: alt1 16
+    2300016: alt1 17
+    2300018: alt1 2
+    2300020: alt1 4
+    2300022: alt1 5
+    2300024: alt1 6
+    2300026: alt1 7
+    2300028: alt1 8
+    2300030: alt1 9
+    2300032: alt18
+    2300034: alt19
+    2300036: alt2
+    2300038: alt2 1
+    2300040: alt2 10
+    2300042: alt2 11
+    2300044: alt2 12
+    2300046: alt2 13
+    2300048: alt2 14
+    2300050: alt2 16
+    2300052: alt2 17
+    2300054: alt2 2
+    2300056: alt2 4
+    2300058: alt2 5
+    2300060: alt2 6
+    2300062: alt2 7
+    2300064: alt2 8
+    2300066: alt2 9
+    2300068: alt20
+    2300070: alt21
+    2300072: alt3
+    2300074: alt3 1
+    2300076: alt3 2
+    2300078: alt3 3
+    2300080: alt3 4
+    2300082: alt3 5
+    2300084: alt3 6
+    2300086: alt3 7
+    2300088: alt3 8
+    2300090: alt3 9
+    2300092: alt4
+    2300094: alt4 1
+    2300096: alt4 2
+    2300098: alt4 3
+    2300100: alt4 4
+    2300102: alt4 5
+    2300104: alt4 6
+    2300106: alt447
+    2300108: alt448
+    2300110: alt449
+    2300112: alt450
+    2300114: alt5
+    2300116: alt5 1
+    2300118: alt5 2
+    2300120: alt6
+    2300122: alt6 1
+    2300124: alt6 2
+    2300126: alt7
+    2300128: alt7 1
+    2300130: alt7 2
+    2300132: alt7 3
+    2300134: alt8
+    2300136: alt8 1
+    2300138: ApplePie
+    2300140: Baguette
+    2300142: Banana
+    2300144: BananaBunch
+    2300146: base
+    2300148: base 1
+    2300150: base 10
+    2300152: base 11
+    2300154: base 12
+    2300156: base 13
+    2300158: base 14
+    2300160: base 15
+    2300162: base 16
+    2300164: base 17
+    2300166: base 18
+    2300168: base 19
+    2300170: base 2
+    2300172: base 20
+    2300174: base 21
+    2300176: base 22
+    2300178: base 3
+    2300180: base 4
+    2300182: base 5
+    2300184: base 6
+    2300186: base 7
+    2300188: base 8
+    2300190: base 9
+    2300192: base2
+    2300194: base2 1
+    2300196: base3
+    2300198: Blackberry
+    2300200: BoxOfFries
+    2300202: Cake
+    2300204: CanOfSardines
+    2300206: Cherry
+    2300208: ChickenDrumstick
+    2300210: color
+    2300212: color 1
+    2300214: color 2
+    2300216: color 3
+    2300218: color 4
+    2300220: color 5
+    2300222: color 6
+    2300224: color 7
+    2300226: Cookie
+    2300228: CornOnTheCob
+    2300230: Grape
+    2300232: GrapeJuice
+    2300234: Hamburger
+    2300236: JellyBean
+    2300238: Kettle
+    2300240: leaf
+    2300242: Lemon
+    2300244: LoafOfBread
+    2300246: Milk
+    2300248: MysteryCan
+    2300250: Orange
+    2300252: OrangeJuice
+    2300254: Pear
+    2300256: PizzaSlice
+    2300258: Pumpkin
+    2300260: RackOfRibs
+    2300262: Raspberry
+    2300264: refl
+    2300266: refl 1
+    2300268: refl 2
+    2300270: refl 3
+    2300272: refl 4
+    2300274: refl 5
+    2300276: refl 6
+    2300278: refl 7
+    2300280: refl 8
+    2300282: refl 9
+    2300284: SalmonSushi
+    2300286: SliceOfBacon
+    2300288: SliceOfCake
+    2300290: SliceOfLemon
+    2300292: SliceOfToast
+    2300294: SodaBottle
+    2300296: Steak
+    2300298: Strawberry
+    2300300: Teapot
+    2300302: Tomato
+    2300304: transp
+    2300306: transp 1
+    2300308: transp 2
+    2300310: transp 3
+    2300312: transp 4
+    2300314: transp 5
+    2300316: transp 6
+    2300318: transp1
+    2300320: WatermelonSlice
+    3300000: alt1
+    3300002: alt1 1
+    3300004: alt1 10
+    3300006: alt1 11
+    3300008: alt1 12
+    3300010: alt1 13
+    3300012: alt1 14
+    3300014: alt1 16
+    3300016: alt1 17
+    3300018: alt1 2
+    3300020: alt1 4
+    3300022: alt1 5
+    3300024: alt1 6
+    3300026: alt1 7
+    3300028: alt1 8
+    3300030: alt1 9
+    3300032: alt18
+    3300034: alt19
+    3300036: alt2
+    3300038: alt2 1
+    3300040: alt2 10
+    3300042: alt2 11
+    3300044: alt2 12
+    3300046: alt2 13
+    3300048: alt2 14
+    3300050: alt2 16
+    3300052: alt2 17
+    3300054: alt2 2
+    3300056: alt2 4
+    3300058: alt2 5
+    3300060: alt2 6
+    3300062: alt2 7
+    3300064: alt2 8
+    3300066: alt2 9
+    3300068: alt20
+    3300070: alt21
+    3300072: alt3
+    3300074: alt3 1
+    3300076: alt3 2
+    3300078: alt3 3
+    3300080: alt3 4
+    3300082: alt3 5
+    3300084: alt3 6
+    3300086: alt3 7
+    3300088: alt3 8
+    3300090: alt3 9
+    3300092: alt4
+    3300094: alt4 1
+    3300096: alt4 2
+    3300098: alt4 3
+    3300100: alt4 4
+    3300102: alt4 5
+    3300104: alt4 6
+    3300106: alt447
+    3300108: alt448
+    3300110: alt449
+    3300112: alt450
+    3300114: alt5
+    3300116: alt5 1
+    3300118: alt5 2
+    3300120: alt6
+    3300122: alt6 1
+    3300124: alt6 2
+    3300126: alt7
+    3300128: alt7 1
+    3300130: alt7 2
+    3300132: alt7 3
+    3300134: alt8
+    3300136: alt8 1
+    3300138: ApplePie
+    3300140: Baguette
+    3300142: Banana
+    3300144: BananaBunch
+    3300146: base
+    3300148: base 1
+    3300150: base 10
+    3300152: base 11
+    3300154: base 12
+    3300156: base 13
+    3300158: base 14
+    3300160: base 15
+    3300162: base 16
+    3300164: base 17
+    3300166: base 18
+    3300168: base 19
+    3300170: base 2
+    3300172: base 20
+    3300174: base 21
+    3300176: base 22
+    3300178: base 3
+    3300180: base 4
+    3300182: base 5
+    3300184: base 6
+    3300186: base 7
+    3300188: base 8
+    3300190: base 9
+    3300192: base2
+    3300194: base2 1
+    3300196: base3
+    3300198: Blackberry
+    3300200: BoxOfFries
+    3300202: Cake
+    3300204: CanOfSardines
+    3300206: Cherry
+    3300208: ChickenDrumstick
+    3300210: color
+    3300212: color 1
+    3300214: color 2
+    3300216: color 3
+    3300218: color 4
+    3300220: color 5
+    3300222: color 6
+    3300224: color 7
+    3300226: Cookie
+    3300228: CornOnTheCob
+    3300230: Grape
+    3300232: GrapeJuice
+    3300234: Hamburger
+    3300236: JellyBean
+    3300238: Kettle
+    3300240: leaf
+    3300242: Lemon
+    3300244: LoafOfBread
+    3300246: Milk
+    3300248: MysteryCan
+    3300250: Orange
+    3300252: OrangeJuice
+    3300254: Pear
+    3300256: PizzaSlice
+    3300258: Pumpkin
+    3300260: RackOfRibs
+    3300262: Raspberry
+    3300264: refl
+    3300266: refl 1
+    3300268: refl 2
+    3300270: refl 3
+    3300272: refl 4
+    3300274: refl 5
+    3300276: refl 6
+    3300278: refl 7
+    3300280: refl 8
+    3300282: refl 9
+    3300284: SalmonSushi
+    3300286: SliceOfBacon
+    3300288: SliceOfCake
+    3300290: SliceOfLemon
+    3300292: SliceOfToast
+    3300294: SodaBottle
+    3300296: Steak
+    3300298: Strawberry
+    3300300: Teapot
+    3300302: Tomato
+    3300304: transp
+    3300306: transp 1
+    3300308: transp 2
+    3300310: transp 3
+    3300312: transp 4
+    3300314: transp 5
+    3300316: transp 6
+    3300318: transp1
+    3300320: WatermelonSlice
+    4300000: CanOfSardines
+    4300002: refl
+    4300004: color
+    4300006: refl
+    4300008: base
+    4300010: base
+    4300012: refl
+    4300014: color
+    4300016: refl
+    4300018: MysteryCan
+    4300020: base
+    4300022: base
+    4300024: base
+    4300026: base
+    4300028: Tomato
+    4300030: alt1
+    4300032: alt2
+    4300034: alt3
+    4300036: base
+    4300038: base
+    4300040: base
+    4300042: CornOnTheCob
+    4300044: alt4
+    4300046: alt7
+    4300048: alt1
+    4300050: alt2
+    4300052: Pumpkin
+    4300054: color
+    4300056: base3
+    4300058: color
+    4300060: base2
+    4300062: color
+    4300064: base2
+    4300066: alt1
+    4300068: alt2
+    4300070: alt3
+    4300072: RackOfRibs
+    4300074: Steak
+    4300076: base
+    4300078: transp
+    4300080: SliceOfBacon
+    4300082: SalmonSushi
+    4300084: alt2
+    4300086: alt3
+    4300088: alt1
+    4300090: alt4
+    4300092: alt1
+    4300094: alt2
+    4300096: alt3
+    4300098: alt4
+    4300100: base
+    4300102: base
+    4300104: ChickenDrumstick
+    4300106: PizzaSlice
+    4300108: Hamburger
+    4300110: BoxOfFries
+    4300112: alt1
+    4300114: alt2
+    4300116: alt3
+    4300118: alt4
+    4300120: alt5
+    4300122: alt6
+    4300124: alt7
+    4300126: alt8
+    4300128: alt1
+    4300130: alt2
+    4300132: alt3
+    4300134: alt4
+    4300136: alt5
+    4300138: alt6
+    4300140: alt7
+    4300142: alt21
+    4300144: alt20
+    4300146: alt19
+    4300148: alt18
+    4300150: base
+    4300152: refl
+    4300154: Cake
+    4300156: alt1
+    4300158: alt2
+    4300160: alt447
+    4300162: alt448
+    4300164: alt449
+    4300166: alt450
+    4300168: JellyBean
+    4300170: alt1
+    4300172: alt2
+    4300174: alt1
+    4300176: alt2
+    4300178: alt4
+    4300180: alt3
+    4300182: SliceOfCake
+    4300184: Cookie
+    4300186: alt1
+    4300188: alt2
+    4300190: alt3
+    4300192: alt1
+    4300194: alt2
+    4300196: alt3
+    4300198: alt4
+    4300200: alt5
+    4300202: alt6
+    4300204: alt7
+    4300206: alt8
+    4300208: LoafOfBread
+    4300210: SliceOfToast
+    4300212: Baguette
+    4300214: ApplePie
+    4300216: Strawberry
+    4300218: Lemon
+    4300220: alt1
+    4300222: alt2
+    4300224: Cherry
+    4300226: Pear
+    4300228: alt1
+    4300230: alt2
+    4300232: Grape
+    4300234: Raspberry
+    4300236: Blackberry
+    4300238: Orange
+    4300240: Banana
+    4300242: BananaBunch
+    4300244: WatermelonSlice
+    4300246: base
+    4300248: leaf
+    4300250: SliceOfLemon
+    4300252: base
+    4300254: refl
+    4300256: color
+    4300258: refl
+    4300260: transp
+    4300262: base
+    4300264: alt1
+    4300266: alt2
+    4300268: transp
+    4300270: base
+    4300272: transp
+    4300274: base
+    4300276: transp1
+    4300278: base
+    4300280: transp
+    4300282: transp
+    4300284: base
+    4300286: color
+    4300288: Milk
+    4300290: OrangeJuice
+    4300292: GrapeJuice
+    4300294: SodaBottle
+    4300296: base
+    4300298: refl
+    4300300: Kettle
+    4300302: Teapot
+    4300304: refl
+    4300306: color
+    4300308: transp
+    4300310: base
+    4300312: refl
+    4300314: base
+    4300316: alt1
+    4300318: alt2
+    4300320: alt3
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
-    materialImportMode: 2
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,32 +970,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -72,10 +997,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -85,17 +1010,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
