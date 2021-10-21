@@ -21,7 +21,7 @@ public class facetheplayer : MonoBehaviour
         Vector3 lookatdoor = new Vector3(-60f,0.0f,0.0f);
         
 
-        if (player.transform.position.x < -6)
+        if (player.transform.position.x < -12)
         {
             
             Vector3 follow = new Vector3(playerPos.x - 0.4f, npcPos.y, npcPos.z);

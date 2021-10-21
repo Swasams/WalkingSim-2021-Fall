@@ -10,11 +10,18 @@ public class destoryafter : MonoBehaviour
         
     }
 
+    void Update()
+    {
+        
+    }
+
     void OnCollisionExit(Collision collision)
     {
-        if (!door.activeSelf) {
-            Debug.Log("123");
+        
+        
             if (collision.gameObject.tag == "vision")
+        {
+            if (door == null)
             {
                 Destroy(gameObject);
             }
