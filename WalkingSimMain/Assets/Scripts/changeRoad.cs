@@ -7,6 +7,7 @@ public class changeRoad : MonoBehaviour
     public GameObject returnRoad;
     public GameObject entrance;
     public GameObject button5;
+    public GameObject triggerforNPC;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,6 +29,7 @@ public class changeRoad : MonoBehaviour
             {
                 returnRoad.SetActive(true);
                 gameObject.SetActive(false);
+                triggerforNPC.SetActive(true);
             }
             else
             {
