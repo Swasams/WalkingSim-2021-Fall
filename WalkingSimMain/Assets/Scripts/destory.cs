@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class destory : MonoBehaviour
 {
-    public bool exist = true;
+    
     void Start()
     {
         
@@ -13,7 +13,6 @@ public class destory : MonoBehaviour
     {
         if (collision.gameObject.tag == "vision")
         {
-            exist = false;
             Destroy(gameObject);
 
         }

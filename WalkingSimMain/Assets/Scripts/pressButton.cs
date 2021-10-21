@@ -28,7 +28,7 @@ public class pressButton : MonoBehaviour
             
             if (Input.GetMouseButtonDown(0)) {
                 level.SetActive(true);
-                Destroy(thisButton);
+                thisButton.SetActive(false);
             }
 
         }

@@ -21,10 +21,10 @@ public class facetheplayer : MonoBehaviour
         Vector3 lookatdoor = new Vector3(-60f,0.0f,0.0f);
         
 
-        if (player.transform.position.x < -6)
+        if (player.transform.position.x < -11.5)
         {
             
-            Vector3 follow = new Vector3(playerPos.x - 0.4f, npcPos.y, npcPos.z);
+            Vector3 follow = new Vector3(playerPos.x - 1.0f, npcPos.y, npcPos.z);
             gameObject.transform.position = follow;
             Quaternion rotation = Quaternion.LookRotation(lookatdoor);
             gameObject.transform.rotation = rotation;
