@@ -20,7 +20,7 @@ public class buttonappear : MonoBehaviour
         if (collision.gameObject.tag == "vision")
         {
             look += 1;
-            if (look > 5) {
+            if (look > 3) {
                 Instantiate(button, empty.transform.position, empty.transform.rotation);
                 Destroy(gameObject);
             }
