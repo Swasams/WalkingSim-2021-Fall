@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637702138224243739
+      ticks: 637704488750744888
     m_Hash: 1145006560
   m_LockFileStatus:
     m_FilePath: D:/UnityProjects/Walking Sim/WalkingSim-2021-Fall/WalkingSimMain/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637702138224243739
+      ticks: 637704488750744888
     m_Hash: 3338474907
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -877,6 +877,7 @@ m_PackageAssets:
         - 1.5.4
         - 1.5.5
         - 1.5.6
+        - 1.5.7
         - 1.6.0-pre.1
         - 1.6.0-pre.3
         - 1.6.0-pre.4
@@ -899,6 +900,7 @@ m_PackageAssets:
         - 1.5.4
         - 1.5.5
         - 1.5.6
+        - 1.5.7
         - 1.6.0-pre.1
         - 1.6.0-pre.3
         - 1.6.0-pre.4
@@ -2914,6 +2916,7 @@ m_PackageAssets:
         - 2.0.0-preview.2
         - 2.0.0
         - 2.0.1-preview.1
+        - 2.0.2
         compatible:
         - 1.0.0-preview.2
         - 1.0.0-preview.3
@@ -2925,7 +2928,8 @@ m_PackageAssets:
         - 2.0.0-preview.2
         - 2.0.0
         - 2.0.1-preview.1
-        verified: 2.0.0
+        - 2.0.2
+        verified: 2.0.2
       dependencies: []
       resolvedDependencies: []
       keywords: []
